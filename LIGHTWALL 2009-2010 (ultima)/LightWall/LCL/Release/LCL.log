@@ -1,0 +1,203 @@
+﻿Build started 18/04/2010 02:25:01.
+     1>Project "E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LCL\LCL.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\LCL.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         D:\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "LCL - lightcommandline beta3.0.1.cc" /clr:nostdlib 
+         LCL - lightcommandline beta3.0.1.cc
+     1>LCL - lightcommandline beta3.0.1.cc(42): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(43): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>LCL - lightcommandline beta3.0.1.cc(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(74): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>LCL - lightcommandline beta3.0.1.cc(75): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>LCL - lightcommandline beta3.0.1.cc(76): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>LCL - lightcommandline beta3.0.1.cc(77): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>LCL - lightcommandline beta3.0.1.cc(78): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>LCL - lightcommandline beta3.0.1.cc(107): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>LCL - lightcommandline beta3.0.1.cc(289): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(307): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(324): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(277) : see declaration of 'gets'
+     1>LCL - lightcommandline beta3.0.1.cc(451): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(482): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(551): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(679): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(688): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(704): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(708): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(712): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(716): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(720): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(845): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(850): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(855): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(860): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(865): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(874): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(894): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(925): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(956): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(988): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1133): warning C4129: 'P' : unrecognized character escape sequence
+     1>LCL - lightcommandline beta3.0.1.cc(1135): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1137): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1139): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1171): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1178): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1192): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1211): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1221): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1227): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1233): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1234): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1235): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1239): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1240): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1241): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1245): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1249): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1254): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(277) : see declaration of 'gets'
+     1>LCL - lightcommandline beta3.0.1.cc(1273): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(277) : see declaration of 'gets'
+     1>LCL - lightcommandline beta3.0.1.cc(1275): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1283): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1294): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1298): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1303): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(277) : see declaration of 'gets'
+     1>LCL - lightcommandline beta3.0.1.cc(1341): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(277) : see declaration of 'gets'
+     1>LCL - lightcommandline beta3.0.1.cc(1343): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1348): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1350): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1391): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1410): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1411): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1428): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1430): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1448): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1469): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1488): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1506): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1517): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1519): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1531): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1557): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>LCL - lightcommandline beta3.0.1.cc(1593): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1603): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>LCL - lightcommandline beta3.0.1.cc(1642): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1651): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1660): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1669): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1678): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1687): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1693): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1699): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1705): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1711): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>LCL - lightcommandline beta3.0.1.cc(1747): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         D:\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\TT\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         D:\Microsoft Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LCL.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\LCL.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LCL.pdb" /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 "Release\LCL - lightcommandline beta3.0.1.obj"
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ..\libeay32.lib
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         LCL.vcxproj -> E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LCL.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LCL.exe;#1" /manifest Release\LCL.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\LCL.unsuccessfulbuild".
+         Touching "Release\LCL.lastbuildstate".
+     1>Done Building Project "E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LCL\LCL.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.92

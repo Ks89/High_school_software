@@ -1,0 +1,63 @@
+﻿Build started 18/04/2010 02:25:01.
+     1>Project "E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall\LightWall.vcxproj" on node 3 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\LightWall.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         D:\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "..\protezione BETA17.3.5.cc" /clr:nostdlib 
+         protezione BETA17.3.5.cc
+     1>..\protezione BETA17.3.5.cc(107): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\protezione BETA17.3.5.cc(108): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>..\protezione BETA17.3.5.cc(138): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\protezione BETA17.3.5.cc(139): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>..\protezione BETA17.3.5.cc(140): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>..\protezione BETA17.3.5.cc(141): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>..\protezione BETA17.3.5.cc(142): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>..\protezione BETA17.3.5.cc(143): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(110) : see declaration of 'strcat'
+     1>..\protezione BETA17.3.5.cc(184): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>..\protezione BETA17.3.5.cc(383): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\protezione BETA17.3.5.cc(414): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\protezione BETA17.3.5.cc(432): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>..\protezione BETA17.3.5.cc(437): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>..\protezione BETA17.3.5.cc(443): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>..\protezione BETA17.3.5.cc(472): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>..\protezione BETA17.3.5.cc(1500): warning C4018: '<' : signed/unsigned mismatch
+     1>..\protezione BETA17.3.5.cc(1502): warning C4018: '<' : signed/unsigned mismatch
+     1>..\protezione BETA17.3.5.cc(1504): warning C4018: '<=' : signed/unsigned mismatch
+     1>e:\kssoftware\lightwall 2009-2010 (ultima)\lightwall\protezione beta17.3.5.cc(169): warning C4793: 'GetSeed' : function compiled as native :
+         	Inline native assembly not supported in managed code
+     1>e:\kssoftware\lightwall 2009-2010 (ultima)\lightwall\protezione beta17.3.5.cc(1313): warning C4700: uninitialized local variable 'codice_seriale_licenza' used
+         D:\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\TT\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         D:\Microsoft Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LightWall.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\LightWall.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LightWall.pdb" /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 "Release\protezione BETA17.3.5.obj"
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ..\libeay32.lib
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         LightWall.vcxproj -> E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LightWall.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\LightWall.exe;#1" /manifest Release\LightWall.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\LightWall.unsuccessfulbuild".
+         Touching "Release\LightWall.lastbuildstate".
+     1>Done Building Project "E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall\LightWall.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.61

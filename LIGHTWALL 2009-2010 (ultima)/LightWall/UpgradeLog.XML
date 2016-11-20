@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LightWall">
+</Property><Property Name="Solution File" Value="E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall.sln">
+</Property><Property Name="User Options File" Value="E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall.suo">
+</Property><Property Name="Date" Value="domenica 18 aprile 2010">
+</Property><Property Name="Time" Value="02:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LightWall.sln" Description="File successfully backed up as E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="LightWall.suo" Description="File successfully backed up as E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall.suo.old">
+</Event><Event ErrorLevel="0" Project="LightWall" Source="LightWall\LightWall.vcproj" Description="Converting project file 'E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall\LightWall.vcproj'.">
+</Event><Event ErrorLevel="1" Project="LightWall" Source="LightWall\LightWall.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="LightWall" Source="LightWall\LightWall.vcproj" Description="Done converting to new project file 'E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LightWall\LightWall.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="LightWall" Source="LightWall\LightWall.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LCL" Source="LCL\LCL.vcproj" Description="Converting project file 'E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LCL\LCL.vcproj'.">
+</Event><Event ErrorLevel="1" Project="LCL" Source="LCL\LCL.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="LCL" Source="LCL\LCL.vcproj" Description="Done converting to new project file 'E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\LCL\LCL.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="LCL" Source="LCL\LCL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="License Managment" Source="License Managment\License Managment.vcproj" Description="Converting project file 'E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\License Managment\License Managment.vcproj'.">
+</Event><Event ErrorLevel="1" Project="License Managment" Source="License Managment\License Managment.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="License Managment" Source="License Managment\License Managment.vcproj" Description="Done converting to new project file 'E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\License Managment\License Managment.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="License Managment" Source="License Managment\License Managment.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LightWall.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="LightWall.sln" Description="Converted">
+</Event></UpgradeLog>

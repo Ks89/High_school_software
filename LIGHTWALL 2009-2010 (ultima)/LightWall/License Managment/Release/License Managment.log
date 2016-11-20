@@ -1,0 +1,56 @@
+﻿Build started 18/04/2010 02:25:01.
+     1>Project "E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\License Managment\License Managment.vcxproj" on node 4 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\License Manager.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         D:\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "License Manager beta1.0.1.cc" /clr:nostdlib 
+         License Manager beta1.0.1.cc
+     1>License Manager beta1.0.1.cc(31): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>License Manager beta1.0.1.cc(186): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>License Manager beta1.0.1.cc(193): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>License Manager beta1.0.1.cc(201): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>License Manager beta1.0.1.cc(246): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>License Manager beta1.0.1.cc(256): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>License Manager beta1.0.1.cc(267): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>License Manager beta1.0.1.cc(268): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>License Manager beta1.0.1.cc(269): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>License Manager beta1.0.1.cc(332): warning C4129: 'C' : unrecognized character escape sequence
+     1>License Manager beta1.0.1.cc(337): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>License Manager beta1.0.1.cc(356): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(304) : see declaration of 'scanf'
+     1>License Manager beta1.0.1.cc(391): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\string.h(105) : see declaration of 'strcpy'
+     1>License Manager beta1.0.1.cc(395): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>License Manager beta1.0.1.cc(401): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 D:\Microsoft Visual Studio 2010\VC\include\stdio.h(234) : see declaration of 'fopen'
+         D:\Microsoft Visual Studio 2010\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /O2 /Oy- /GL /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /analyze- /errorReport:prompt "C:\Users\TT\AppData\Local\Temp\.NETFramework,Version=v4.0.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+       Link:
+         D:\Microsoft Visual Studio 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\License Manager.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /ManifestFile:"Release\License Manager.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\License Manager.pdb" /LTCG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 "Release\License Manager beta1.0.1.obj"
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ..\libeay32.lib
+         LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+         License Managment.vcxproj -> E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\License Manager.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\Release\License Manager.exe;#1" /manifest "Release\License Manager.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Release\License Manager.unsuccessfulbuild".
+         Touching "Release\License Manager.lastbuildstate".
+     1>Done Building Project "E:\KsSoftware\LIGHTWALL 2009-2010 (ultima)\LightWall\License Managment\License Managment.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.31
