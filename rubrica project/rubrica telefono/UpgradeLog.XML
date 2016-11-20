@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="rubrica telefono">
+</Property><Property Name="File di soluzione" Value="E:\KsSoftware\Altri giochi e programmi\PROGRAMMI IN C\rubrica project\rubrica telefono\rubrica telefono.sln">
+</Property><Property Name="File di opzioni utente" Value="E:\KsSoftware\Altri giochi e programmi\PROGRAMMI IN C\rubrica project\rubrica telefono\rubrica telefono.suo">
+</Property><Property Name="Date" Value="venerdì 9 luglio 2010">
+</Property><Property Name="Time" Value="16:53">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="rubrica telefono.sln" Description="File salvato come E:\KsSoftware\Altri giochi e programmi\PROGRAMMI IN C\rubrica project\rubrica telefono\rubrica telefono.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="rubrica telefono.suo" Description="File salvato come E:\KsSoftware\Altri giochi e programmi\PROGRAMMI IN C\rubrica project\rubrica telefono\rubrica telefono.suo.old">
+</Event><Event ErrorLevel="0" Project="rubrica telefono" Source="rubrica telefono\rubrica telefono.vcproj" Description="Converting project file 'E:\KsSoftware\Altri giochi e programmi\PROGRAMMI IN C\rubrica project\rubrica telefono\rubrica telefono\rubrica telefono.vcproj'.">
+</Event><Event ErrorLevel="1" Project="rubrica telefono" Source="rubrica telefono\rubrica telefono.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="rubrica telefono" Source="rubrica telefono\rubrica telefono.vcproj" Description="Done converting to new project file 'E:\KsSoftware\Altri giochi e programmi\PROGRAMMI IN C\rubrica project\rubrica telefono\rubrica telefono\rubrica telefono.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="rubrica telefono" Source="rubrica telefono\rubrica telefono.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="rubrica telefono.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="rubrica telefono.sln" Description="Converted">
+</Event></UpgradeLog>
